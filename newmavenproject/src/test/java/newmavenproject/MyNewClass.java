@@ -2,7 +2,8 @@ package newmavenproject;
 
 public class MyNewClass {
 
-	public void myClass() {
+	
+	public void clas2() {
 		
 	}
 }
